@@ -1,2 +1,2 @@
-# gaig-demo
-Skeleton project to show how to associate test runs
+# playwright-demo
+Demonstration of Playwright for Java running within Studio
